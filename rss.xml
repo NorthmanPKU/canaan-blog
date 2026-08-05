@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"><channel>
+  <title>Canaan</title>
+  <link>https://blogs.jiananji.me/</link>
+  <description>Jianan 的个人博客与交互式写作实验室。</description>
+    <item>
+      <title>Canaan，从一间安静的书房开始</title>
+      <link>https://blogs.jiananji.me/posts/canaan-begins</link>
+      <guid>https://blogs.jiananji.me/posts/canaan-begins</guid>
+      <pubDate>Mon, 03 Aug 2026 00:00:00 GMT</pubDate>
+      <description>先不造一座庞大的知识城市。从一张真正好写、好读、能持续生长的书桌开始。</description>
+    </item>
+    <item>
+      <title>把极限画出来</title>
+      <link>https://blogs.jiananji.me/posts/visualizing-limits</link>
+      <guid>https://blogs.jiananji.me/posts/visualizing-limits</guid>
+      <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
+      <description>当 x 一点点靠近 0，函数到底发生了什么？拖动滑杆，比背下一行定义更接近理解。</description>
+    </item>
+    <item>
+      <title>为什么电子书应该真正电子</title>
+      <link>https://blogs.jiananji.me/posts/electronic-books</link>
+      <guid>https://blogs.jiananji.me/posts/electronic-books</guid>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
+      <description>PDF 只是纸张的投影。真正的电子书应当可以更新、交互、讨论，也天然拥有一位耐心的 AI 同学。</description>
+    </item>
+</channel></rss>
